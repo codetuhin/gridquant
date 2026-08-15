@@ -1,0 +1,15 @@
+# C++ build artifacts
+*.o
+*.out
+*.exe
+build/
+    
+# macOS specific
+.DS_Store
+*.dSYM/
+# macOS extensionless executables
+Matching_engine
+bidding_system
+calculate_credibility
+energyexchangesystem
+telemetry_ingestion_virtual_allocation
