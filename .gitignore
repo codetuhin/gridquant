@@ -1,15 +1,8 @@
-# C++ build artifacts
+# Compiled Object files and Executables
 *.o
 *.out
 *.exe
-build/
-    
-# macOS specific
+*.app
+
+# Mac OS Directory files
 .DS_Store
-*.dSYM/
-# macOS extensionless executables
-Matching_engine
-bidding_system
-calculate_credibility
-energyexchangesystem
-telemetry_ingestion_virtual_allocation
